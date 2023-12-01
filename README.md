@@ -1,4 +1,4 @@
-# simplephp_crud_step
+# SimplePHP CRUD Step by step
 Step by step install CRUD example of SimplePHP Framework
 
 ### 1. download 3 file zip dan 1 file sql
