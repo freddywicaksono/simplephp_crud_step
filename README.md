@@ -18,9 +18,13 @@ composer require vlucas/phpdotenv
 ```
 ### 7. buka folder modul perawat:
 pindahkan file:
+
 Perawat.php -> folder controllers
+
 PerawatModel.php -> folder models   
+
 pindahkan folder: perawat -> root project
+
 ### 8. Buka phpmyadmin
 Buat sebuah database baru, beri nama: webapp
 ### 9. Import tabel perawat.sql
